@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MathGame</string>
+    <string name="score">0</string>
+    <string name="about_title">Game Rules</string>
+    <string name="about_text">and</string>
+    <string name="ok_label">okay</string>
+    <string name="play">New Game</string>
+    <string name="question">0 + 0 =</string>
+    <string name="answer">"?"</string>
+    <string name="back">Main Menu</string>
+    <string name="novice_label">Novice</string>
+    <string name="easy_label">Easy</string>
+    <string name="medium_label">Medium</string>
+    <string name="guru_label">Guru</string>
+    <string name="lblHint">Would you like to play with HINTS?</string>
+</resources>
